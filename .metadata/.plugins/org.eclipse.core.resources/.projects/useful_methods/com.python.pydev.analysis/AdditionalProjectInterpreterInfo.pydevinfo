@@ -1,0 +1,17 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\Jomina Jolly\Eclipse workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\useful_methods\com.python.pydev.analysis\v2_indexcache
+sum_of_n|1497020245444051000|D:\Jomina Jolly\Eclipse workspace\useful_methods\src\sum_of_n.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=sum_of_n
+-- END DICTIONARY
+-- START TREE 1
+2
+sum|2|sum_of_n!10@sum_with_loop!10@
+upp|1|upper_limit!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

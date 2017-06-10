@@ -1,0 +1,36 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\Jomina Jolly\Eclipse workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\DifferenceofSquareSums\com.python.pydev.analysis\v2_indexcache
+PrimeFactor|1497081219160059000|D:\Jomina Jolly\Eclipse workspace\DifferenceofSquareSums\src\PrimeFactor.py
+Difference|1496987331841835000|D:\Jomina Jolly\Eclipse workspace\DifferenceofSquareSums\src\Difference.py
+3_and_5_multiples|1497020679892473000|D:\Jomina Jolly\Eclipse workspace\DifferenceofSquareSums\src\3_and_5_multiples.py
+smallest_multiple|1497016508918643000|D:\Jomina Jolly\Eclipse workspace\DifferenceofSquareSums\src\smallest_multiple.py
+10001_prime_number|1497081219028310000|D:\Jomina Jolly\Eclipse workspace\DifferenceofSquareSums\src\10001_prime_number.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=Difference
+1=smallest_multiple
+3=3_and_5_multiples
+2=10001_prime_number
+-- END DICTIONARY
+-- START TREE 1
+14
+gcd|1|gcd!11@
+ind|1|index!19@
+is_|2|is_prime!10@is_prime!18@
+lis|1|list_of_prime!19@
+max|1|max_index!19@
+n|1|n!27@
+non|1|non_prime!11@
+num|1|number!19@
+pri|2|prime_numbers!10@prime!11@
+pro|2|product!10@product!11@
+res|1|result!27@
+squ|1|squareOfSum!34@
+sum|2|sumOfSquares!34@sum_of_n!26@
+upp|1|upper_limit!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

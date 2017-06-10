@@ -1,0 +1,38 @@
+'''
+Created on Jun 9, 2017
+
+@author: Jomina Jolly
+'''
+
+    
+#to check a number for prime or not            
+def is_prime(n):
+    count=0
+    if n==0 or n==1:
+        return False
+    else:
+        for i in range(2,n/2+1):
+            if n%i==0:
+                count+=1
+        if count>0:
+            return False
+            
+        else:
+            list_of_prime.append(n)
+            return True
+        
+
+
+list_of_prime=[]
+max_index=1000
+index=1
+number=1
+while index<max_index:
+    number+=2
+    if is_prime(number):
+        index+=1
+        #print 'the prime number of index & number',index,number
+        
+real_value= 7927
+print list_of_prime
+print '10001st prime number is',number  

@@ -1,0 +1,32 @@
+'''
+Created on Jun 9, 2017
+
+@author: Jomina Jolly
+'''
+
+    
+#to check a number for prime or not            
+def is_prime(n):
+    count=0
+    if n==0 or n==1:
+        return False
+    else:
+        for i in range(2,n):
+            if n%i==0:
+                count+=1
+        if count>0:
+            return False
+            
+        else:
+            return True
+        
+
+number=0
+i=0
+while i!=10001:
+    print i
+    if is_prime(number):
+        number+=1
+    i+=1
+
+print '10 001st prime number is',number-1    

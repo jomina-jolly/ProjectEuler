@@ -1,0 +1,17 @@
+'''
+Created on Jun 9, 2017
+
+@author: Jomina Jolly
+'''
+def f(n):
+    fib=[]
+    if n==0:
+        fib+=1
+        return fib 
+    elif n==1:
+        fib+=2
+        return fib 
+    elif n>1:
+        f(n)=f(n-1)+f(n-2)
+
+print f(15)

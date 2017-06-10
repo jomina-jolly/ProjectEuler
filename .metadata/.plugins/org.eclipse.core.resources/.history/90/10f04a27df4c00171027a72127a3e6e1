@@ -1,0 +1,32 @@
+'''
+Created on Jun 9, 2017
+
+@author: Jomina Jolly
+'''
+"""def sum_of_multiples(limit):
+    result=0
+    for n in range(limit):
+        if n!=1:    
+            if (n%3==0 or n%5==0):
+                result+=n
+        else:
+            result+=0
+    return result 
+print sum_of_multiples(1000)     
+if sum_of_multiples(1000)==233168:
+    print "Success!"
+"""
+    
+result =0
+def sum_of_n(a,m,d):
+    n=((a-m)/d)-1
+    total= (n/2)*m-a
+    return total
+    
+result = sum_of_n(0,995,5)+sum_of_n(0,999,3)-sum_of_n(0,990,15)
+print result
+    
+    
+
+
+    
